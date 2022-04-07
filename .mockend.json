@@ -7,12 +7,14 @@
       "regexp": "[a-z]{16}"
     },
     "attributes": {
-      "role": {
-        "string": [
-          "one",
-          "two",
-          "three"
-        ]
+      "object": {
+        "role": {
+          "string": [
+            "one",
+            "two",
+            "three"
+          ]
+        }
       }
     },
     "identity": {
